@@ -1,4 +1,3 @@
-
 def greet(name, msg="별일없죠?"):  #디폴트 인수 defualt argument , 맨 마지막에 위치시킴
     print("안녕 ", name + ', ' + msg)
 
